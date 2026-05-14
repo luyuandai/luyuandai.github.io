@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Luyuan",
+    "description": "",
+    "home_page_url": "https://luyuandai.github.io",
+    "feed_url": "https://luyuandai.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://luyuandai.github.io/media/website/Screenshot-2026-05-13-at-8.31.43-PM.png",
+    "author": {
+        "name": "Luyuan"
+    },
+    "items": [
+    ]
+}
